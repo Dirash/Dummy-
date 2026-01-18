@@ -1,11 +1,7 @@
 
 
 {
-    "totalRecords": 361,
-    "page": 0,
-    "result": [
-        {
-            "companyLinkedInUrl": "linkedin.com/company/segrocers",
+    "tota            "companyLinkedInUrl": "linkedin.com/company/segrocers",
             "icpFitmentScore": "High",
             "country": "United States",
             "intentNames": "Comcast (CCV),Foreign Currency Transactions,Business Class",

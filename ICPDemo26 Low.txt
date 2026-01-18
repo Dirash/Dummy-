@@ -1,9 +1,3 @@
-{
-    "totalRecords": 341,
-    "page": 0,
-    "result": [
-        {
-            "companyLinkedInUrl": "linkedin.com/company/canara-bank",
             "icpFitmentScore": "Low",
             "intentNames": "Accounting,Company Audits,Ad Servers",
             "country": "India",
